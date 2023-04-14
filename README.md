@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Benjamin Marta, I'm a full-stack software engineer. 
+My name is Benjamin Marta, and I'm a full-stack software engineer. 
 
 BenjaminMMarta/BenjaminMMarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
