@@ -3,6 +3,6 @@
 
 I'm Benjamin Marta, a full-stack software engineer currently completing my Software Engineering Career Track Certification with Springboard. 
 
-- 🌱 I’m currently learning JavaScript, jQuery, and Bootstrap.
+- 🌱 I’m currently learning Intermediate JavaScript, jQuery, and Bootstrap.
 - 👨🏼‍🏫 Technical proficiency: HTML | CSS | JavaScript | Git | Command Line | GitHub.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/benjaminmmarta/)
