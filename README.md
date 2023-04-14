@@ -1,5 +1,6 @@
 ### Welcome to my GitHub Profile! 👋
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![linkedin](file:///Users/benjaminmarta/Downloads/linkedin.svg)
 
 My name is Benjamin Marta, and I'm a full-stack software engineer currently completing my Software Engineering Career Track Certification with Springboard. 
 
