@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Benjamin Marta, a full-stack software engineer currently completing my software engineering career track certification with Springboard. 
+I'm Benjamin Marta, a full-stack software engineer currently completing my Software Engineering Career Track Certification with Springboard. 
 
 - 🌱 I’m currently learning JavaScript, jQuery, and Bootstrap.
 - 👯 I’m looking to collaborate on ...
