@@ -5,4 +5,4 @@ I'm Benjamin Marta, a full-stack software engineer currently completing my Softw
 
 - 🌱 I’m currently learning JavaScript, jQuery, and Bootstrap.
 - 👨🏼‍🏫 Technical proficiency: HTML | CSS | JavaScript | Git | Command Line | GitHub.
-- 📫 How to reach me: ![linkedin](https://www.linkedin.com/in/benjaminmmarta/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/benjaminmmarta/)
