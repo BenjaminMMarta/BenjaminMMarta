@@ -1,4 +1,6 @@
-### Hi there! 👋  Welcom to my GitHub! ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+### Hi there! 👋  
+### Welcom to my GitHub! 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 I'm Benjamin Marta, a full-stack software engineer currently completing my Software Engineering Career Track Certification with Springboard. 
 
