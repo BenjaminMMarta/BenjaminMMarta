@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <!--
 **BenjaminMMarta/BenjaminMMarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
