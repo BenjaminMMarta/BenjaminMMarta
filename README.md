@@ -4,7 +4,7 @@
 - 🧠 I’m currently learning computer science and machince learning through Codecademy.
 - 👥 I’m looking to collaborate on.
 - 💬 Ask me about anything!
-- 👇🏻 Below you'll find my ever evolving skillset.
+- 👇🏻 Below you'll find my evolving skillset.
 ___
 
 ### Languages
