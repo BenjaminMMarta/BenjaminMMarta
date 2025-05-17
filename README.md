@@ -28,7 +28,7 @@ ___
 
 ### Education
 ___
-![CSU_Channel_Islands](https://img.shields.io/badge/CSU_Channel_Islands-red?style=for-the-badge&color=%23CC092F)
+![CSU_Channel_Islands](https://upload.wikimedia.org/wikipedia/commons/e/e7/CSU_Channel_Islands_logo.svg)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white)
