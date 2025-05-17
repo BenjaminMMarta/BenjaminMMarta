@@ -1,10 +1,10 @@
-# Welcome! My name is Ben. 👋🏼
+# Welcome! My name is Ben. 👋🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning computer science and machince learning through Codecademy! ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Below is my current skillset: 👇🏼
+👨🏻‍💻 I’m currently working on.
+🧠 I’m currently learning computer science and machince learning through Codecademy.
+👥 I’m looking to collaborate on.
+💬 Ask me about anything!
+👇🏻 Below you'll find a list of my ever evolving skillset.
 ___
 
 ### Languages
