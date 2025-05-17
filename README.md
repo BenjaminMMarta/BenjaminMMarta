@@ -29,6 +29,7 @@ ___
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
 ___
 
 ### Version Control
@@ -37,6 +38,7 @@ ___
 
 ### Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179.svg?style=for-the-badge&logo=TestRail&logoColor=white)
 ___
 
 ### Collaboration Communication
