@@ -58,7 +58,7 @@ ___
 ___
 
 ### Education
-![CSU_Channel_Islands](https://img.shields.io/badge/CSU_Channel_Islands-red?style=for-the-badge&color=%23CC092F)
+![California_State_University_Channel_Islands](https://img.shields.io/badge/California_State_University_Channel_Islands-red?style=for-the-badge&color=%23CC092F)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)
